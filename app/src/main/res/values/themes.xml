@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UpxGreenFetch" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/greenp</item>
+    </style>
+
+    <style name="Theme.UpxGreenFetch" parent="Base.Theme.UpxGreenFetch" />
+</resources>
